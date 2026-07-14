@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="175" tvg-logo="https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png" group-title="Boxing",🕛 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
+#EXTINF:-1 tvg-id="175" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ec6o4v1655316460.jpg/medium" group-title="Boxing",🕛 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
 https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
 
 #EXTINF:-1 tvg-id="175" group-title="Boxing",SD SERVER
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
 
-#EXTINF:-1 tvg-id="212" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Motorsport",🕛 16:00 May 28, WRC vs WRC RALLY TV
+#EXTINF:-1 tvg-id="212" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/erwbc51783101574.jpg/medium" group-title="Motorsport",🕛 16:00 May 28, WRC vs WRC RALLY TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
 
 #EXTINF:-1 tvg-id="212" group-title="Motorsport",TNT SPORTS 3
@@ -13,22 +13,22 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="72" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🕛 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
+#EXTINF:-1 tvg-id="72" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pbuy8n1784008425.jpg/medium" group-title="Boxing",🕛 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
 https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
 
-#EXTINF:-1 tvg-id="1773" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🕛 15:30 Jul 14, United SC vs Coal India Spa Link 1
+#EXTINF:-1 tvg-id="1773" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/woa0rr1648817684.jpg/medium" group-title="Football",🕛 15:30 Jul 14, United SC vs Coal India Spa Link 1
 https://live-n10.videostech.cloud/match/unitedsportsclub_vs_coalindiaspa/HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="1774" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🕛 15:30 Jul 14, Mohammedan SC Reserves vs ASOS Rainbow Link 1
+#EXTINF:-1 tvg-id="1774" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xeqkw71648817487.jpg/medium" group-title="Football",🕛 15:30 Jul 14, Mohammedan SC Reserves vs ASOS Rainbow Link 1
 https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_nbprainbowathleticclub/HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="1775" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🕛 15:30 Jul 14, Calcutta Police vs Techno Aryan Link 1
+#EXTINF:-1 tvg-id="1775" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hifiaj1783752201.jpg" group-title="Football",🕛 15:30 Jul 14, Calcutta Police vs Techno Aryan Link 1
 https://live-n10.videostech.cloud/match/calcuttapoliceclub_vs_aryanclub/HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="1776" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🕛 15:30 Jul 14, Wari Athletic Club vs Kalighat Sports Lovers Link 1
+#EXTINF:-1 tvg-id="1776" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r7fgxi1712659538.jpg" group-title="Football",🕛 15:30 Jul 14, Wari Athletic Club vs Kalighat Sports Lovers Link 1
 https://live-n10.videostech.cloud/match/wariathleticclub_vs_kalighatsportsla/HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="1534" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",🕛 16:00 Jul 14, ENG vs IND WILLOW FHD
+#EXTINF:-1 tvg-id="1534" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vv81yn1783766247.jpg/medium" group-title="Cricket",🕛 16:00 Jul 14, ENG vs IND WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
@@ -56,7 +56,7 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062
 #EXTINF:-1 tvg-id="1534" group-title="Cricket",SONY TEN 4 - IN
 https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 
-#EXTINF:-1 tvg-id="1628" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/2361/image" group-title="Tennis",🕛 21:00 Jul 14, Wimbledon vs Wimbledon TSN SPORTS FHD
+#EXTINF:-1 tvg-id="1628" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/1y7l7k1621154978.jpg/medium" group-title="Tennis",🕛 21:00 Jul 14, Wimbledon vs Wimbledon TSN SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0
@@ -131,13 +131,13 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783063013_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11186c42fd511dc12c3da4122b453f6b:d56ad21c13dc64fdb2430fe49469bd25
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783062859_f~0_g~1_s~4eacd431-2bc5-424f-a0d8-802756370f8a_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~57_x~aa20f09c93127e31a5b860102493fae6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport256)/master_2hr-all.mpd
 
-#EXTINF:-1 tvg-id="1778" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",🕛 21:00 Jul 14, Sun vs Fire NBA HD
+#EXTINF:-1 tvg-id="1778" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/k1yotz1781683786.jpg/medium" group-title="Basketball",🕛 21:00 Jul 14, Sun vs Fire NBA HD
 https://chatgpt.hereisman.net/playlist/53348/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="1778" group-title="Basketball",HD QUALITY
 https://edgestream3.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 
-#EXTINF:-1 tvg-id="1742" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Football",🕛 01:00 Jul 15, France vs Spain FOX SPORTS FHD
+#EXTINF:-1 tvg-id="1742" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="Football",🕛 01:00 Jul 15, France vs Spain FOX SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0
@@ -325,7 +325,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 #EXTINF:-1 tvg-id="1742" group-title="Football",CCTV SPORTS HD
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 
-#EXTINF:-1 tvg-id="1784" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 02:00 Jul 15, Rockets vs 76ers Link 1
+#EXTINF:-1 tvg-id="1784" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/njhwi41716376527.jpg/medium" group-title="Basketball",🕛 02:00 Jul 15, Rockets vs 76ers Link 1
 https://no.link
 
 #EXTINF:-1 tvg-id="1783" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 04:00 Jul 15, Nets vs Kings Link 1
