@@ -1,150 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="175" tvg-logo="https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png" group-title="Boxing",🕛 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
-https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
-
-#EXTINF:-1 tvg-id="175" group-title="Boxing",SD SERVER
-https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
-
-#EXTINF:-1 tvg-id="212" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Motorsport",🕛 16:00 May 28, WRC vs WRC RALLY TV
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
-
-#EXTINF:-1 tvg-id="212" group-title="Motorsport",TNT SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="72" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🕛 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
-https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
-
-#EXTINF:-1 tvg-id="1831" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 23:00 Jul 17, Winterthur vs Union Berlin Link 1
-https://no.link
-
-#EXTINF:-1 tvg-id="1681" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🕛 15:30 Jul 18, KF vs DS WILLOW FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
-
-#EXTINF:-1 tvg-id="1681" group-title="Cricket",WILLOW ATL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
-
-#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇮🇳
-https://in-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇧🇩
-https://bd-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇱🇰
-https://lk-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1871" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🕛 15:30 Jul 18, East Bengal FC Reserves vs Railway FC HD SERVER
-https://live-n10.videostech.cloud/match/eastbengalfc_vs_railwayfc/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="1809" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 16:00 Jul 18, Bologna vs Bielefeld SD SERVER
-http://193.47.62.45/hls/EPPPQQQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="170" tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport",🕛 16:30 Jul 18, Formula 1 vs Formula 1 FANCODE FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 HD
-https://chatgpt.hereisman.net/playlist/53414/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",APPLE TV FHD
-https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",FOX SPORTS FHD
-https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SportCast F1
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f756eeb-8a38-432f-89fa-dd393d07a4b0/master.m3u8
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 FHD
-https://inproviszon.st/sky-sports-f1.m3u8?|referer=https://vileembeds.pages.dev/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",DAZN ESPANOL
-https://whioefwhi.sense-scramble-bay.xyz/out/v2/f6ff498a6abd018b2d6c24aa77f6e001/index.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY ITALY FHD
-https://whioefwhi.sense-scramble-bay.xyz/out/v2/264a05ba99b8850a8fbc750ae109cc03/index.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1 UHD
-http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",LOW RES
-https://whioefwhi.sense-scramble-bay.xyz/out/v2/4839b7fb4a693edb7f595e681bccf101/tracks-v0a0/mono.ts.m3u8?|referer=https://pushembdz.store/
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",F1 GERMANY [USA]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
-https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 ITALY [USA]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",Tipik FRANCE FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS HD
-https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1 UHD
-http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
-
-#EXTINF:-1 tvg-id="170" group-title="Motorsport",SD SERVER
-http://193.47.62.57/hls/FRRRE.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1822" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 18:00 Jul 18, Hibernian vs Brøndby HD SERVER
-https://pul-tenm.gkykp.com/live/sd-1-4584475.m3u8?txSecret=7f1a784e2e61ff59d336876d7804394f&txTime=6A5CC9D9
-
-#EXTINF:-1 tvg-id="1822" group-title="Football",SD SERVER
-http://193.47.62.49/hls/ROOOB.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1811" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:00 Jul 18, NAC Breda vs Excelsior SD SERVER
-http://193.47.62.49/hls/ROOOBQQQQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1872" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:00 Jul 18, Dundee vs Everton SD SERVER
-http://193.47.62.49/hls/ROOOBQQQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1872" group-title="Football",HD SERVER
-http://193.47.62.49/hls/rooobqqqq.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1812" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:30 Jul 18, Ajax vs Olympiacos HD SERVER
-https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687af306e090a&txTime=6A5B92FC|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="1812" group-title="Football",SD SERVER
-http://193.47.62.49/hls/YNNNQQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1812" group-title="Football",HD SERVER
-https://pul-tenm.gkykp.com/live/sd-1-4584528.m3u8?txSecret=8224d57de268bac31c5d6382fc9f8647&txTime=6A5CC691
-
-#EXTINF:-1 tvg-id="1823" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:30 Jul 18, Freiberg vs Hoffenheim Link 1
-https://no.link
-
-#EXTINF:-1 tvg-id="1824" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:30 Jul 18, Baumberg vs Leverkusen Link 1
-http://193.47.62.49/hls/YNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1829" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 19:30 Jul 18, Lotte vs Real Betis PREMIER SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="1829" group-title="Football",HD SERVER
-https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8|referer=https://player.online909.com/
-
-#EXTINF:-1 tvg-id="1829" group-title="Football",LOW QUALITY
-http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1805" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🕛 20:00 Jul 18, GG vs CK WILLOW FHD
+#EXTINF:-1 tvg-id="1805" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🔴️Live: 20:00 Jul 18, GG vs CK WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
@@ -154,13 +9,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/
 #KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
 
-#EXTINF:-1 tvg-id="1826" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 20:00 Jul 18, Celtic vs Middlesbrough LOW QUALITY
-http://193.47.62.46/hls/IAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-
-#EXTINF:-1 tvg-id="1825" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 21:00 Jul 18, Oberhausen vs Dortmund Link 1
+#EXTINF:-1 tvg-id="1825" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔴️Live: 21:00 Jul 18, Oberhausen vs Dortmund Link 1
 http://193.47.62.47/hls/gagagagaq.m3u8|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="1828" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 21:00 Jul 18, Man Utd vs Wrexham MU TV
+#EXTINF:-1 tvg-id="1828" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔴️Live: 21:00 Jul 18, Man Utd vs Wrexham MU TV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
 #EXTINF:-1 tvg-id="1828" group-title="Football",MU TV+
@@ -175,130 +27,130 @@ https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=94753319b1eb4b586e4
 #EXTINF:-1 tvg-id="1828" group-title="Football",LIVE SERVER
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784390905-0-0-a233898d7bb71455f86115b5d642b1e4
 
-#EXTINF:-1 tvg-id="1830" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 21:00 Jul 18, Lorient vs Nantes Link 1
+#EXTINF:-1 tvg-id="1830" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔴️Live: 21:00 Jul 18, Lorient vs Nantes Link 1
 http://193.47.62.46/hls/IPPPQQQQQx.m3u8|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="1834" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 22:30 Jul 18, Petro de Luanda vs Valencia Link 1
+#EXTINF:-1 tvg-id="1834" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔴️Live: 22:30 Jul 18, Petro de Luanda vs Valencia Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1835" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 23:00 Jul 18, Rapid vs HSV Link 1
+#EXTINF:-1 tvg-id="1835" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 23:00 Jul 18, Rapid vs HSV Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1839" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 23:00 Jul 18, Elche vs Kaizer Chiefs Link 1
+#EXTINF:-1 tvg-id="1839" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 23:00 Jul 18, Elche vs Kaizer Chiefs Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1840" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 23:00 Jul 18, Alavés vs Eibar Link 1
+#EXTINF:-1 tvg-id="1840" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 23:00 Jul 18, Alavés vs Eibar Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1855" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 23:10 Jul 18, Guardians vs Pirates Link 1
+#EXTINF:-1 tvg-id="1855" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 23:10 Jul 18, Guardians vs Pirates Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1836" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 23:30 Jul 18, Leioa vs Athletic Club Link 1
+#EXTINF:-1 tvg-id="1836" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 23:30 Jul 18, Leioa vs Athletic Club Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1832" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 00:00 Jul 19, Olot vs Espanyol Link 1
+#EXTINF:-1 tvg-id="1832" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 00:00 Jul 19, Olot vs Espanyol Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1833" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 00:00 Jul 19, Zulte Waregem vs AZ Link 1
+#EXTINF:-1 tvg-id="1833" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 00:00 Jul 19, Zulte Waregem vs AZ Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1841" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 00:00 Jul 19, Lyon vs Slavia Praha Link 1
+#EXTINF:-1 tvg-id="1841" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 00:00 Jul 19, Lyon vs Slavia Praha Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1860" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 00:20 Jul 19, Cubs vs Twins Link 1
+#EXTINF:-1 tvg-id="1860" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 00:20 Jul 19, Cubs vs Twins Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1842" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🕛 00:30 Jul 19, Braga vs Celta Link 1
+#EXTINF:-1 tvg-id="1842" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",⏱️ 00:30 Jul 19, Braga vs Celta Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1856" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 01:07 Jul 19, Blue Jays vs White Sox Link 1
+#EXTINF:-1 tvg-id="1856" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 01:07 Jul 19, Blue Jays vs White Sox Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1863" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 01:10 Jul 19, Rockies vs Reds Link 1
+#EXTINF:-1 tvg-id="1863" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 01:10 Jul 19, Rockies vs Reds Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1803" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark" group-title="American football",🕛 02:00 Jul 19, Calgary vs Montréal Link 1
+#EXTINF:-1 tvg-id="1803" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark" group-title="American football",⏱️ 02:00 Jul 19, Calgary vs Montréal Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1867" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:05 Jul 19, Phillies vs Mets Link 1
+#EXTINF:-1 tvg-id="1867" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:05 Jul 19, Phillies vs Mets Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1857" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Diamondbacks vs Cardinals Link 1
+#EXTINF:-1 tvg-id="1857" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Diamondbacks vs Cardinals Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1864" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Red Sox vs Rays Link 1
+#EXTINF:-1 tvg-id="1864" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Red Sox vs Rays Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1865" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Brewers vs Marlins Link 1
+#EXTINF:-1 tvg-id="1865" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Brewers vs Marlins Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1866" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Guardians vs Pirates Link 1
+#EXTINF:-1 tvg-id="1866" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Guardians vs Pirates Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1868" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Astros vs Orioles Link 1
+#EXTINF:-1 tvg-id="1868" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Astros vs Orioles Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1869" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Royals vs Padres Link 1
+#EXTINF:-1 tvg-id="1869" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Royals vs Padres Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1870" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 02:10 Jul 19, Braves vs Rangers Link 1
+#EXTINF:-1 tvg-id="1870" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 02:10 Jul 19, Braves vs Rangers Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1848" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 02:30 Jul 19, Magic vs Celtics Link 1
+#EXTINF:-1 tvg-id="1848" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 02:30 Jul 19, Magic vs Celtics Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1780" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Football",🕛 03:00 Jul 19, France vs England Link 1
+#EXTINF:-1 tvg-id="1780" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Football",⏱️ 03:00 Jul 19, France vs England Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1847" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 03:00 Jul 19, Bucks vs 76ers Link 1
+#EXTINF:-1 tvg-id="1847" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 03:00 Jul 19, Bucks vs 76ers Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1850" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 04:30 Jul 19, Grizzlies vs Rockets Link 1
+#EXTINF:-1 tvg-id="1850" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 04:30 Jul 19, Grizzlies vs Rockets Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1852" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 05:00 Jul 19, Wizards vs Hawks Link 1
+#EXTINF:-1 tvg-id="1852" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 05:00 Jul 19, Wizards vs Hawks Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1802" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark" group-title="American football",🕛 05:30 Jul 19, Hamilton vs Toronto Link 1
+#EXTINF:-1 tvg-id="1802" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark" group-title="American football",⏱️ 05:30 Jul 19, Hamilton vs Toronto Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1806" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark" group-title="Cricket",🕛 05:30 Jul 19, LAKR vs WF Link 1
+#EXTINF:-1 tvg-id="1806" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark" group-title="Cricket",⏱️ 05:30 Jul 19, LAKR vs WF Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1849" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",🕛 06:00 Jul 19, Lynx vs Fire Link 1
+#EXTINF:-1 tvg-id="1849" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",⏱️ 06:00 Jul 19, Lynx vs Fire Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1854" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",🕛 06:00 Jul 19, Fever vs Liberty Link 1
+#EXTINF:-1 tvg-id="1854" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",⏱️ 06:00 Jul 19, Fever vs Liberty Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1858" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 06:08 Jul 19, Mariners vs Giants Link 1
+#EXTINF:-1 tvg-id="1858" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 06:08 Jul 19, Mariners vs Giants Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1862" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 06:08 Jul 19, Yankees vs Dodgers Link 1
+#EXTINF:-1 tvg-id="1862" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 06:08 Jul 19, Yankees vs Dodgers Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1846" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 06:30 Jul 19, Lakers vs Warriors Link 1
+#EXTINF:-1 tvg-id="1846" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 06:30 Jul 19, Lakers vs Warriors Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1853" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",🕛 06:30 Jul 19, Valkyries vs Mystics Link 1
+#EXTINF:-1 tvg-id="1853" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark" group-title="Basketball",⏱️ 06:30 Jul 19, Valkyries vs Mystics Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1851" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 07:00 Jul 19, Pelicans vs Pacers Link 1
+#EXTINF:-1 tvg-id="1851" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 07:00 Jul 19, Pelicans vs Pacers Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1861" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 08:05 Jul 19, Athletics vs Nationals Link 1
+#EXTINF:-1 tvg-id="1861" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 08:05 Jul 19, Athletics vs Nationals Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1859" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",🕛 08:07 Jul 19, Angels vs Tigers Link 1
+#EXTINF:-1 tvg-id="1859" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball",⏱️ 08:07 Jul 19, Angels vs Tigers Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1845" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",🕛 08:30 Jul 19, Suns vs Spurs Link 1
+#EXTINF:-1 tvg-id="1845" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Basketball",⏱️ 08:30 Jul 19, Suns vs Spurs Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1804" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🕛 15:30 Jul 19, DS vs JK Link 1
+#EXTINF:-1 tvg-id="1804" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",⏱️ 15:30 Jul 19, DS vs JK Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="1534" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",🕛 16:00 Jul 19, ENG vs IND WILLOW FHD
+#EXTINF:-1 tvg-id="1534" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",⏱️ 16:00 Jul 19, ENG vs IND WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
@@ -340,7 +192,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream.adaptive.license_key=fb0f0f68b240e6229d24ea203e89b7cf:d3c6effdb9a97270240859716679b977
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/2thnc9fn7n/out/v1/c22142e811f24bef89e19033e33ac81d/cenc.mpd
 
-#EXTINF:-1 tvg-id="1609" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",🕛 16:30 Jul 19, ZIM vs BAN FANCODE FHD
+#EXTINF:-1 tvg-id="1609" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",⏱️ 16:30 Jul 19, ZIM vs BAN FANCODE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
@@ -362,7 +214,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 #EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE [IN]
 https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="1679" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",🕛 20:00 Jul 19, WI vs NZ WILLOW FHD
+#EXTINF:-1 tvg-id="1679" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",⏱️ 20:00 Jul 19, WI vs NZ WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd
@@ -391,7 +243,7 @@ http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=
 #EXTINF:-1 tvg-id="1679" group-title="Cricket",TNT SPORTS HD
 https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 
-#EXTINF:-1 tvg-id="1677" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Football",🕛 01:00 Jul 20, Argentina vs Spain FOX ONE FHD
+#EXTINF:-1 tvg-id="1677" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16/image/dark" group-title="Football",⏱️ 01:00 Jul 20, Argentina vs Spain FOX ONE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0
@@ -597,10 +449,10 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1677" group-title="Football",SOMOY TV HD
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1807" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22591/image/dark" group-title="Cricket",🕛 10:30 Jul 20, SL-U19 vs IND-U19 Link 1
+#EXTINF:-1 tvg-id="1807" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22591/image/dark" group-title="Cricket",⏱️ 10:30 Jul 20, SL-U19 vs IND-U19 Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="73" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🕛 06:00 Jul 21, WWE RAW vs WWE RAW WWE HD
+#EXTINF:-1 tvg-id="73" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",⏱️ 06:00 Jul 21, WWE RAW vs WWE RAW WWE HD
 https://chatgpt.hereisman.net/playlist/53006/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="73" group-title="Boxing",HD SERVER
@@ -609,7 +461,7 @@ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8|User-Agent
 #EXTINF:-1 tvg-id="73" group-title="Boxing",SD SERVER
 http://193.47.62.41/hls/GBBBQQ.m3u8|referer=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="74" tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing",🕛 06:00 Jul 23, AEW vs AEW TSN2 SPORTS FHD
+#EXTINF:-1 tvg-id="74" tvg-logo="https://i.ibb.co/jPLdK3bM/aewlogo24b.png" group-title="Boxing",⏱️ 06:00 Jul 23, AEW vs AEW TSN2 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0
@@ -625,7 +477,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6
 #EXTINF:-1 tvg-id="74" group-title="Boxing",AEW HD
 https://embedindia.st/embed/aew/dynamite/2026-07-08
 
-#EXTINF:-1 tvg-id="176" tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing",🕛 18:30 Jul 24, One Friday Fights vs One Friday Fights One Fight FHD
+#EXTINF:-1 tvg-id="176" tvg-logo="https://iili.io/FDjaT1R.md.png" group-title="Boxing",⏱️ 18:30 Jul 24, One Friday Fights vs One Friday Fights One Fight FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
@@ -638,7 +490,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTINF:-1 tvg-id="176" group-title="Boxing",SERVER 3
 https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="213" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png" group-title="Boxing",🕛 06:00 Jul 25, SmackDown vs SmackDown WWE HD
+#EXTINF:-1 tvg-id="213" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png" group-title="Boxing",⏱️ 06:00 Jul 25, SmackDown vs SmackDown WWE HD
 https://chatgpt.hereisman.net/playlist/52583/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
 
 #EXTINF:-1 tvg-id="213" group-title="Boxing",WWE LIVE HD
@@ -647,10 +499,10 @@ https://melancholy.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 #EXTINF:-1 tvg-id="213" group-title="Boxing",SD SERVER
 http://193.47.62.44/hls/ZZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 
-#EXTINF:-1 tvg-id="1682" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",🕛 20:00 Jul 25, WI vs PAK Link 1
+#EXTINF:-1 tvg-id="1682" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket",⏱️ 20:00 Jul 25, WI vs PAK Link 1
 https://no.link
 
-#EXTINF:-1 tvg-id="171" tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport",🕛 16:45 Aug 7, MotoGP vs MotoGP FANCODE FHD
+#EXTINF:-1 tvg-id="171" tvg-logo="https://i.ibb.co/6chYXnTd/mgpp.png" group-title="Motorsport",⏱️ 16:45 Aug 7, MotoGP vs MotoGP FANCODE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
@@ -679,3 +531,151 @@ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.c
 
 #EXTINF:-1 tvg-id="171" group-title="Motorsport",SD SERVER
 http://193.47.62.55/hls/zlllQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="175" tvg-logo="https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png" group-title="Boxing",🔚️ 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
+https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
+
+#EXTINF:-1 tvg-id="175" group-title="Boxing",SD SERVER
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+
+#EXTINF:-1 tvg-id="212" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Motorsport",🔚️ 16:00 May 28, WRC vs WRC RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+
+#EXTINF:-1 tvg-id="212" group-title="Motorsport",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="72" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🔚️ 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
+https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+
+#EXTINF:-1 tvg-id="1831" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 23:00 Jul 17, Winterthur vs Union Berlin Link 1
+https://no.link
+
+#EXTINF:-1 tvg-id="1681" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🔚️ 15:30 Jul 18, KF vs DS WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
+
+#EXTINF:-1 tvg-id="1681" group-title="Cricket",WILLOW ATL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
+
+#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇮🇳
+https://in-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇧🇩
+https://bd-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1681" group-title="Cricket",FANCODE 🇱🇰
+https://lk-mc-pdlive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1871" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 18, East Bengal FC Reserves vs Railway FC HD SERVER
+https://live-n10.videostech.cloud/match/eastbengalfc_vs_railwayfc/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1809" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 16:00 Jul 18, Bologna vs Bielefeld SD SERVER
+http://193.47.62.45/hls/EPPPQQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="170" tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport",🔚️ 16:30 Jul 18, Formula 1 vs Formula 1 FANCODE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 HD
+https://chatgpt.hereisman.net/playlist/53414/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",APPLE TV FHD
+https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",FOX SPORTS FHD
+https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SportCast F1
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f756eeb-8a38-432f-89fa-dd393d07a4b0/master.m3u8
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 FHD
+https://inproviszon.st/sky-sports-f1.m3u8?|referer=https://vileembeds.pages.dev/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",DAZN ESPANOL
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/f6ff498a6abd018b2d6c24aa77f6e001/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY ITALY FHD
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/264a05ba99b8850a8fbc750ae109cc03/index.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",LOW RES
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/4839b7fb4a693edb7f595e681bccf101/tracks-v0a0/mono.ts.m3u8?|referer=https://pushembdz.store/
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",F1 GERMANY [USA]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY F1 ITALY [USA]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",Tipik FRANCE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS HD
+https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SKY SPORTS F1 UHD
+http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8
+
+#EXTINF:-1 tvg-id="170" group-title="Motorsport",SD SERVER
+http://193.47.62.57/hls/FRRRE.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1822" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 18:00 Jul 18, Hibernian vs Brøndby HD SERVER
+https://pul-tenm.gkykp.com/live/sd-1-4584475.m3u8?txSecret=7f1a784e2e61ff59d336876d7804394f&txTime=6A5CC9D9
+
+#EXTINF:-1 tvg-id="1822" group-title="Football",SD SERVER
+http://193.47.62.49/hls/ROOOB.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1811" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:00 Jul 18, NAC Breda vs Excelsior SD SERVER
+http://193.47.62.49/hls/ROOOBQQQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1872" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:00 Jul 18, Dundee vs Everton SD SERVER
+http://193.47.62.49/hls/ROOOBQQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1872" group-title="Football",HD SERVER
+http://193.47.62.49/hls/rooobqqqq.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1812" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:30 Jul 18, Ajax vs Olympiacos HD SERVER
+https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687af306e090a&txTime=6A5B92FC|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="1812" group-title="Football",SD SERVER
+http://193.47.62.49/hls/YNNNQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1812" group-title="Football",HD SERVER
+https://pul-tenm.gkykp.com/live/sd-1-4584528.m3u8?txSecret=8224d57de268bac31c5d6382fc9f8647&txTime=6A5CC691
+
+#EXTINF:-1 tvg-id="1823" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:30 Jul 18, Freiberg vs Hoffenheim Link 1
+https://no.link
+
+#EXTINF:-1 tvg-id="1824" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:30 Jul 18, Baumberg vs Leverkusen Link 1
+http://193.47.62.49/hls/YNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1829" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 19:30 Jul 18, Lotte vs Real Betis PREMIER SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="1829" group-title="Football",HD SERVER
+https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8|referer=https://player.online909.com/
+
+#EXTINF:-1 tvg-id="1829" group-title="Football",LOW QUALITY
+http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="1826" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Football",🔚️ 20:00 Jul 18, Celtic vs Middlesbrough LOW QUALITY
+http://193.47.62.46/hls/IAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
