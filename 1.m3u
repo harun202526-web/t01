@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="175" tvg-logo="https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png" group-title="Boxing",🔚️ 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
-https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
-
-#EXTINF:-1 tvg-id="175" group-title="Boxing",SD SERVER
-https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
-
-#EXTINF:-1 tvg-id="72" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🔚️ 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
-https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
-
-#EXTINF:-1 tvg-id="212" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Motorsport",🔚️ 14:00 Jul 19, WRC vs WRC RALLY TV
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
-
-#EXTINF:-1 tvg-id="212" group-title="Motorsport",TNT SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="1804" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🔚️ 15:30 Jul 19, DS vs JK WILLOW FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
-
-#EXTINF:-1 tvg-id="1804" group-title="Cricket",WILLOW ALT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
-
-#EXTINF:-1 tvg-id="1804" group-title="Cricket",FANCODE (IND)
-https://in-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1804" group-title="Cricket",FANCODE (BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1877" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Calcutta Customs vs Sangbad Pratidin Bhawanipore HD SERVER
-https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_spbhawaniporefc/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="1878" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Patha Chakra vs Bidhannagar Msa HD SERVER
-https://live-n10.videostech.cloud/match/momonigrouppathachakra_vs_bidhannagarmsa/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="1879" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, George Telegraph FC vs Kidderpore SC HD SERVER
-https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphsc_vs_luxurylivingkidderporesportingclub/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="1880" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Mohun Bagan SG Reserves vs Kalighat MS HD SERVER
-https://live-n10.videostech.cloud/match/mohunbagansupergiant_vs_kalighatmilansangha/HLS/master.m3u8
-
 #EXTINF:-1 tvg-id="1534" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",🔴️Live: 16:00 Jul 19, ENG vs IND WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c
@@ -74,51 +29,6 @@ https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=17844
 
 #EXTINF:-1 tvg-id="1534" group-title="Cricket",SKY CRICKET FHD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-
-#EXTINF:-1 tvg-id="1609" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",🔚️ 16:30 Jul 19, ZIM vs BAN FANCODE FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",TAPMAD FHD
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",SD SERVER
-http://104.251.122.123:8089/crc6/index.m3u8
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE [BD]
-https://bd-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE [IN]
-https://in-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="1609" group-title="Cricket",HD QUALITY
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
-
-#EXTINF:-1 tvg-id="1881" tvg-logo="https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png" group-title="Tennis",🔚️ 17:20 Jul 19, Tour de France vs Tour de France EUROSPORT1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT2 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT1 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
-https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
-
-#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT2 FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
-https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
 #EXTINF:-1 tvg-id="170" tvg-logo="https://cdn-icons-png.flaticon.com/512/2418/2418779.png" group-title="Motorsport",🔴️Live: 19:00 Jul 19, Formula 1 vs Formula 1 FANCODE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -594,3 +504,93 @@ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.c
 
 #EXTINF:-1 tvg-id="171" group-title="Motorsport",SD SERVER
 http://193.47.62.55/hls/zlllQQQ.m3u8|referer=http://www.fawanews.sc/
+
+#EXTINF:-1 tvg-id="175" tvg-logo="https://i.ibb.co/Vcc1vf2y/TNA-Impact-2024.png" group-title="Boxing",🔚️ 05:00 Apr 12, TNA iMPACT vs TNA iMPACT HD SERVER
+https://28ugbcsxrxra.windows-devs.top/AccessLog2/108086_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/
+
+#EXTINF:-1 tvg-id="175" group-title="Boxing",SD SERVER
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108086_LQ/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/
+
+#EXTINF:-1 tvg-id="72" tvg-logo="https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png" group-title="Boxing",🔚️ 06:00 Jul 8, WWE NXT vs WWE NXT SD SERVER
+https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com
+
+#EXTINF:-1 tvg-id="212" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Motorsport",🔚️ 14:00 Jul 19, WRC vs WRC RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
+
+#EXTINF:-1 tvg-id="212" group-title="Motorsport",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="1804" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Cricket",🔚️ 15:30 Jul 19, DS vs JK WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
+
+#EXTINF:-1 tvg-id="1804" group-title="Cricket",WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
+
+#EXTINF:-1 tvg-id="1804" group-title="Cricket",FANCODE (IND)
+https://in-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1804" group-title="Cricket",FANCODE (BD)
+https://bd-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1877" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Calcutta Customs vs Sangbad Pratidin Bhawanipore HD SERVER
+https://live-n10.videostech.cloud/match/calcuttacustomsclub_vs_spbhawaniporefc/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1878" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Patha Chakra vs Bidhannagar Msa HD SERVER
+https://live-n10.videostech.cloud/match/momonigrouppathachakra_vs_bidhannagarmsa/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1879" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, George Telegraph FC vs Kidderpore SC HD SERVER
+https://live-n10.videostech.cloud/match/tamlukkhelaghargeorgetelegraphsc_vs_luxurylivingkidderporesportingclub/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1880" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2289/image/dark" group-title="Football",🔚️ 15:30 Jul 19, Mohun Bagan SG Reserves vs Kalighat MS HD SERVER
+https://live-n10.videostech.cloud/match/mohunbagansupergiant_vs_kalighatmilansangha/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="1609" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket",🔚️ 16:30 Jul 19, ZIM vs BAN FANCODE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",TAPMAD FHD
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",SD SERVER
+http://104.251.122.123:8089/crc6/index.m3u8
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE [BD]
+https://bd-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",FANCODE [IN]
+https://in-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="1609" group-title="Cricket",HD QUALITY
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
+
+#EXTINF:-1 tvg-id="1881" tvg-logo="https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png" group-title="Tennis",🔚️ 17:20 Jul 19, Tour de France vs Tour de France EUROSPORT1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7
+https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-id="1881" group-title="Tennis",EUROSPORT2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414
+https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
